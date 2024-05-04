@@ -19,7 +19,9 @@ samples, guidance on mobile development, and a full API reference.
 - Join the discussion and conversation on https://flutlab.io/residents
 
 ## Resultados
-- ![image](https://github.com/JesusRafaelCanoFlores5A/UII_A5_tabbarsliver/assets/143547897/f0b436b3-cc42-486f-9c9a-1efe9bf286bf)
-- ![image](https://github.com/JesusRafaelCanoFlores5A/UII_A5_tabbarsliver/assets/143547897/a2d89c37-6794-4568-99d0-4f83bd530df1)
-- ![image](https://github.com/JesusRafaelCanoFlores5A/UII_A5_tabbarsliver/assets/143547897/ba39e444-2f83-405f-a6f1-d441426b9f2e)
-- ![image](https://github.com/JesusRafaelCanoFlores5A/UII_A5_tabbarsliver/assets/143547897/a157ab3e-e230-4a5a-9e98-529cfb07c0b8)
+![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/da62beed-3eff-4ba8-a764-072ddf227b7d)
+![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/7c335451-46a3-4c75-b197-7db70a4eccd3)
+![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/fc230b4e-480a-4b9b-a2a0-c57779d63a53)
+![imagen](https://github.com/LBrandonC06/UII_A5_Tabbar0456/assets/143548973/a6173e95-2f83-47f7-b8bd-b9b8a455d9fe)
+
+
